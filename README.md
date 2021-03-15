@@ -3,7 +3,7 @@ MSFS2020 Airport addon/mod for Thunder Bay International Airport (ICAO: CYQT/IAT
 
 Developed from the default scenery and the official SDK.
 
-Version 0.1.0
+Version 0.1.0 beta
 
 Updates from the default airport:
 
