@@ -1,0 +1,31 @@
+<AssetPackage Name="breizh-airport-cyqt" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>cus-cyqt</Title>
+		<Manufacturer>Airport2Project</Manufacturer>
+		<Creator>Patrick Germain</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\breizh-airport-cyqt\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\breizh-airport-cyqt\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="breizh-airport-cyqt">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>cyqt_asset\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
